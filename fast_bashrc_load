@@ -1,0 +1,2 @@
+# Load FASD, Include at end of bashrc file
+eval "$(fasd --init auto)"
