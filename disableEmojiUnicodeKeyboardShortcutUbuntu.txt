@@ -1,0 +1,9 @@
+CTRL + ;
+CTRL + .
+
+These shortcuts get hijacked by ibus in ubuntu;
+
+in terminal: 
+$ ibus-setup
+
+https://askubuntu.com/a/1051387
